@@ -35,7 +35,7 @@ The API strictly enforces access control based on three user groups:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Zsxcylliope/Module-4-Security-Integrated-Systems.git
-   cd Module-4-Security-Integrated-Systems/core
+   cd Module-4-Lab-Activity-1
    ```
 
 2. Create a virtual environment and install dependencies:
